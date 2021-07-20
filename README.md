@@ -1,6 +1,7 @@
 ### Hi there, I'm Godfrey 👋
 
 
+
 - 🔭 I’m currently working on cracking the coding interview
 - 🌱 I’m currently learning about developing applications with blockchain technology
 - 👯 I’m looking to collaborate on projects that make the web more accesible to the world
@@ -34,7 +35,9 @@
 
 
 ### Connect 📫
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/godfrey%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-petricic/)](https://www.linkedin.com/in/godfrey-doo-6433b1130/)
+[![GitHub](https://img.shields.io/badge/godfrey%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/lukaPetricic)](https://github.com/godfreydoo)
+[![Gmail](https://img.shields.io/badge/godfrey%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:lukapetricic@gmail.com)](mailto:godfrey.doo@gmail.com)
 <br />
 <br />
 
