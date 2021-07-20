@@ -1,12 +1,9 @@
 ### Hi there, I'm Godfrey 👋
-
-
-
 - 🔭 I’m currently working on cracking the coding interview
 - 🌱 I’m currently learning about developing applications with blockchain technology
 - 👯 I’m looking to collaborate on projects that make the web more accesible to the world
 - 💬 Ask me about JavaScript, React, Node.js, or Product Management
-- ⚡ Fun fact: I make the best chocolate chip cookies 🍪
+- 🍪 Fun fact: I make the best chocolate chip cookies 
 
 
 ### Languages and Tools 🛠️
@@ -14,9 +11,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=%3177C6)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery%20-%231572B6.svg?&style=flat-square&logo=jquery&logoColor=#79CEF5)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
@@ -46,6 +45,3 @@
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="Godfrey's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfreydoo" />
 </details>
-
-
-[linkedin]: https://www.linkedin.com/in/godfrey-doo-6433b1130/
