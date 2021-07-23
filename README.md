@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=%3177C6)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js%20-%2320232a.svg?&style=flat-square&logo=next.js&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231572B6.svg?&style=flat-square&logo=jquery&logoColor=#79CEF5)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
@@ -29,8 +30,10 @@
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel%20-%23323330.svg?&style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=flat-square&logo=github&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI%20-%23323330.svg?&style=flat-square&logo=circleci&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23323330.svg?&style=flat-square&logo=postman&logoColor=orange)
 <br />
 <br />
