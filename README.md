@@ -40,7 +40,7 @@
 
 
 ### Connect 📫
-[![LinkedIn](https://img.shields.io/badge/godfrey%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-petricic/)](https://www.linkedin.com/in/godfrey-doo-6433b1130/)
+[![LinkedIn](https://img.shields.io/badge/godfrey%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-petricic/)](https://www.linkedin.com/in/godfreydoo/)
 [![GitHub](https://img.shields.io/badge/godfrey%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/lukaPetricic)](https://github.com/godfreydoo)
 [![Gmail](https://img.shields.io/badge/godfrey%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:lukapetricic@gmail.com)](mailto:godfrey.doo@gmail.com)
 <br />
