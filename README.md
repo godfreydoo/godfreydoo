@@ -1,6 +1,6 @@
 ### Hi there, I'm Godfrey 👋
-- 🔭 I’m currently working on a Next.js + TypeScript project and cracking the coding interview
-- 🌱 I’m currently learning about developing applications with blockchain technology
+- 🔭 I’m currently working on cracking the coding interview
+- 🌱 I want to learn about developing applications with blockchain technology
 - 👯 I’m looking to collaborate on projects that make the web more accessible to the world
 - 💬 Ask me about JavaScript, React, Node.js, or Product Management
 - 🍪 Fun fact: I make the best chocolate chip cookies 
