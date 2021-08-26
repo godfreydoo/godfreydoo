@@ -3,7 +3,6 @@
 - 🌱 I want to learn about developing applications with blockchain technology
 - 👯 I’m looking to collaborate on projects that make the web more accessible to the world
 - 💬 Ask me about JavaScript, React, Node.js, or Product Management
-- 🍪 Fun fact: I make the best chocolate chip cookies 
 
 
 ### Languages and Tools 🛠️
