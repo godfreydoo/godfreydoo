@@ -1,6 +1,6 @@
 ### Hi there, I'm Godfrey 👋
 - 🔭 I’m currently learning Elixir
-- 🌱 I want to learn about developing applications with blockchain technology
+- 🌱 I'm developing applications with blockchain technology
 - 👯 I’m looking to collaborate on projects that make the web more accessible to the world
 - 💬 Ask me about JavaScript, React, Node.js, or Product Management
 
@@ -9,13 +9,13 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir%20-white.svg?&style=flat-square&logo=elixir&logoColor=purple)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+
 ![Next.js](https://img.shields.io/badge/Next.js%20-black.svg?&style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-45b8d8.svg?&style=flat-square&logo=react&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=white)
-
-
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
@@ -28,7 +28,6 @@
 ![aws](https://img.shields.io/badge/aws%20-orange.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel%20-%23323330.svg?&style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=flat-square&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI%20-white.svg?&style=flat-square&logo=circleci&logoColor=black)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
