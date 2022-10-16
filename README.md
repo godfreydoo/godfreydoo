@@ -5,9 +5,9 @@
 
 ### Languages and Tools 🛠️
 
+![Elixir](https://img.shields.io/badge/Elixir%20-white.svg?&style=flat-square&logo=elixir&logoColor=purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir%20-white.svg?&style=flat-square&logo=elixir&logoColor=purple)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 
@@ -37,7 +37,6 @@
 ### Connect 📫
 [![LinkedIn](https://img.shields.io/badge/godfrey%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-petricic/)](https://www.linkedin.com/in/godfreydoo/)
 [![GitHub](https://img.shields.io/badge/godfrey%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/lukaPetricic)](https://github.com/godfreydoo)
-[![Gmail](https://img.shields.io/badge/godfrey%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:lukapetricic@gmail.com)](mailto:godfrey.doo@gmail.com)
 <br />
 <br />
 
