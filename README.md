@@ -31,8 +31,6 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
 
 <br />
-<br />
-
 
 ### Connect 📫
 [![LinkedIn](https://img.shields.io/badge/godfrey%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-petricic/)](https://www.linkedin.com/in/godfreydoo/)
